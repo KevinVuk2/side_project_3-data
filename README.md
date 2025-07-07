@@ -16,9 +16,11 @@ Calculates the proportion of U.S.-born winners for each decade to find the decad
 3. In which category and decade have women had the most success?
 
 Determines the proportion of female winners per category for each decade to pinpoint the decade and field with the highest representation of female laureates.
+
 4. Who was the first woman to win a Nobel Prize?
 
 Filters the dataset to find the name and prize category of the first-ever female winner.
+
 5. Who are the repeat prize winners?
 
 Generates a list of all individuals and organizations that have been awarded the Nobel Prize more than once.
