@@ -1,3 +1,4 @@
+![Nobel_Prize](Nobel_Prize.png)
 # This is a Project I did while studying Data Analysis
 
 # Analysis of Nobel Prize Winners (1901-2023)
