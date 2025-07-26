@@ -2,7 +2,7 @@
 # This is a Project I did while studying Data Analysis
 
 # Analysis of Nobel Prize Winners (1901-2023)
-This Jupyter Notebook explores a dataset of all Nobel Prize winners from 1901 to 2023. The analysis delves into the demographics of the laureates, trends over time, and identifies notable prize winners. The dataset is sourced from the Nobel Prize API.
+This Project explores a dataset of all Nobel Prize winners from 1901 to 2023. The analysis delves into the demographics of the laureates, trends over time, and identifies notable prize winners. The dataset is sourced from the Nobel Prize API.
 
 # The project uses pandas and numpy to analyze the data and answer the following questions:
 
